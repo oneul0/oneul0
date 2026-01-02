@@ -42,7 +42,7 @@
 
 ![apachejmeter](https://img.shields.io/badge/apachejmeter-D22128.svg?&style=for-the-badge&logo=apachejmeter&logoColor=white)
 
-### 🚌 Top Langs & Algorithm
+### 🚌 Algorithm
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oneul0&layout=compact) -->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=raeque)](https://solved.ac/profile/raeque)
 
