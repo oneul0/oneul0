@@ -43,9 +43,9 @@
 ![apachejmeter](https://img.shields.io/badge/apachejmeter-D22128.svg?&style=for-the-badge&logo=apachejmeter&logoColor=white)
 
 ### 🚌 Top Langs & Algorithm
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oneul0&layout=compact)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=raeque)](https://solved.ac/profile/raeque)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oneul0&layout=compact) -->
+![Oneul's GitHub stats](https://github-readme-stats.vercel.app/api?username=oneul0&show_icons=true)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=raeque)](https://solved.ac/profile/raeque)
 
 </br>
 </br>
