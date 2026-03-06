@@ -5,7 +5,8 @@
 <!-- ### 🙇 안녕하세요, 환경을 개선하는 개발자 김기훈입니다! -->
 **Backend Developer**
 Java & Spring Boot · MSA · Performance Optimization · Concurrency Control
-   
+
+<!-- 
 ## 🧠 About Me
 
 기술을 도입하는 것 자체보다, 기술 도입의 이유를 찾습니다.  
@@ -13,6 +14,8 @@ Java & Spring Boot · MSA · Performance Optimization · Concurrency Control
 대규모 트래픽과 동시성 이슈를 다루기 위해 Redisson 분산 락, Kafka/RabbitMQ 기반의 이벤트 기반 통신 구조를 설계하며 시스템의 병목을 객관적인 지표로 개선했고, 
 굿즈샵의 대기열 문제(홈런티켓)나 물류 처리의 비효율(오잉 로지스틱스)처럼 **일상과 비즈니스의 명확한 불편함(Pain Point)을 찾아내고, 이를 소프트웨어의 구조적 최적화로 해소**하는 데 집중합니다.    
 새로운 기술에 대한 두려움이 없습니다.  문제 해결을 위해서 Java 생태계에 안주하지 않고 DL4J를 활용한 AI 예측 모델 구축, PostGIS를 활용한 공간 데이터 처리 등 도구의 경계를 유연하게 넓혀갑니다.
+
+-->
 
 ## 📂 Projects
 
