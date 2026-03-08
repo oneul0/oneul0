@@ -17,6 +17,7 @@ Java & Spring Boot · MSA · Performance Optimization · Concurrency Control
 
 -->
 
+<!-- 
 ## 📂 Projects
 
 | Project | Description | Stack |
@@ -25,7 +26,7 @@ Java & Spring Boot · MSA · Performance Optimization · Concurrency Control
 | **오잉 로지스틱스**<br>*(B2B 물류 MSA)* | **기업 간 주문-배송-재고 관리를 위한 이벤트 기반 플랫폼**<br>• **RabbitMQ**를 활용해 서비스 간 의존성을 낮춘 비동기 데이터 동기화 구현<br>• **Redis(Global) + Caffeine(Local) 계층형 캐시** 적용으로 데이터 조회 병목 현상 개선 | `Spring Boot`, `RabbitMQ`, `Redis`, `PostgreSQL` |
 | **배달의 구조**<br>*(지역 배달 플랫폼)* | **위치 기반 검색에 최적화된 소상공인 주문 관리 서비스**<br>• **PostGIS 공간 인덱싱**을 도입하여 거리 기반 상점 검색 쿼리 연산 속도 대폭 개선<br>• **QueryDSL**을 활용한 카테고리/거리 등 다중 동적 검색 로직 구현 | `Spring Boot`, `PostGIS`, `QueryDSL` |
 | **재정 개조단**<br>*(금융 추천 플랫폼)* | **투자 성향 분석 및 AI 금 시세 예측 의사결정 지원 플랫폼**<br>• **DL4J 기반 LSTM 모델**을 학습시켜 자바 환경 내에서 직접 시세 예측 기능 구현<br>• 벡터 유사도 알고리즘 기반 금융 상품 추천 및 Vue.js 연동 풀스택 개발 | `Spring Boot`, `DL4J`, `Vue.js`, `MySQL` |
-
+-->
 
 <!-- Body -->
 
