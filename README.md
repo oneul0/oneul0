@@ -68,6 +68,7 @@ Java & Spring Boot · MSA · Performance Optimization · Concurrency Control
 
 | Organization | Role / Detail | Duration |
 | :--- | :--- | :--- |
+| **삼성청년SW·AI아카데미** | **SW·AI 역량 향상 교육**<br> | 2026.07 – 2027.06 |
 | **스파르타 KDT** | **AI 활용 백엔드 아키텍처 심화 과정**<br>대규모 트래픽 대응, MSA 보안 설계, EDA 아키텍처 및 시스템 모니터링 역량 심화 | 2025.02 – 2025.05 |
 | **KB It’s Your Life 5기** | **웹 애플리케이션 개발자 과정**<br>Vue.js 및 Spring Boot 기반 풀스택 인터랙션 구현 및 RDBMS 최적화 학습 | 2024.05 – 2024.10 |
 
