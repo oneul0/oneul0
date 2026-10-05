@@ -86,7 +86,7 @@ Java & Spring Boot · MSA · Performance Optimization · Concurrency Control
 
 ## Certifications
 
-* **OPIc IM1** (2024.10)
+* **OPIc IM2** (2026.09)
 * **정보처리기사** (2023.09)
 
 ### 🚌 Algorithm
